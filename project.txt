@@ -1,0 +1,8 @@
+Objectif : Créer une application web qui permet aux utilisateurs de gérer leurs tâches quotidiennes. Les utilisateurs peuvent ajouter, modifier, supprimer et marquer des tâches comme complétées.
+Public cible : Utilisateurs qui souhaitent organiser leur emploi du temps et gérer leurs tâches de manière efficace.
+
+Établir les exigences fonctionnelles :
+Authentification des utilisateurs (inscription et connexion).
+Création, lecture, mise à jour et suppression (CRUD) des tâches.
+Possibilité de classer les tâches par catégories ou dates.
+Interface utilisateur intuitive et responsive.
