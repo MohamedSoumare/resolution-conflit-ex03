@@ -1,18 +1,13 @@
 Objectif : Créer une application web qui permet aux utilisateurs de gérer leurs tâches quotidiennes. Les utilisateurs peuvent ajouter, modifier, supprimer et marquer des tâches comme complétées.
-Public cible : Utilisateurs qui souhaitent organiser leur emploi du temps et gérer leurs tâches de manière efficace.
 
 Établir les exigences fonctionnelles :
 
 Authentification des utilisateurs (inscription et connexion).
-Création, lecture, mise à jour et suppression (CRUD) des tâches.
-Possibilité de classer les tâches par catégories ou dates.
+Création, afficier, mise à jour et suppression taches.
 Interface utilisateur intuitive et responsive.
 
-Conception
+Développement Front-end :
+Créer les pages HTML/CSS.
+Développer les fonctionnalités dynamiques avec JavaScript/Vuejs.
 
-Conception de l'interface utilisateur (UI/UX) :
-Créer des maquettes de l'application (wireframes).
-Définir le design des pages principales (page d'accueil, page des tâches, etc.).
-Conception de la base de données :
-Définir les schémas des collections pour MongoDB (utilisateurs, tâches).
-Créer les relations entre les différentes entités.
+Intégration et tests
